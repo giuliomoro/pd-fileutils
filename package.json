@@ -14,8 +14,8 @@
     "jsdom": "18.1.x",
     "mustache": "4.2.x",
     "npm-test": "^0.0.1",
-    "pd-fileutils.parser": "sebpiq/pd-fileutils.parser",
-    "underscore": "1.13.x"
+    "underscore": "1.13.x",
+    "v16": "^0.0.1"
   },
   "devDependencies": {
     "css-loader": "6.5.x",
